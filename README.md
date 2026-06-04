@@ -2,7 +2,7 @@
 
 A clean, minimal dark-themed developer portfolio website built with pure **HTML, CSS, and JavaScript** — deployed on GitHub Pages.
 
-🔗 **Live Site:** https://404-pbmnaidunotfound.github.io/FUTURE_FS_01-/
+🔗 **Live Site:** https://404-pbmnaidunotfound.github.io/FUTURE_FS_01
 
 ---
 
